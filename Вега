@@ -1012,7 +1012,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#b800fa",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1121,7 +1125,10 @@
       "properties": {
         "stroke": "#ba00fe",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Обь",
+        "Стих": "Матрешки",
+        "Строчки": "Как дышит туман и плывет, Клубясь над верховьями Оби"
       },
       "geometry": {
         "type": "LineString",
