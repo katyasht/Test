@@ -4344,6 +4344,60 @@
           40.69232474202854
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebaf00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Саудовская Аравия",
+        "Стих": "Кто-то вроде Лимонова",
+        "Строчки": "Кажется в Аравии служил После пересек границу Чили"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.47265625,
+          24.287026865376436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#edb000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Рим",
+        "Стих": "Кто-то вроде Лимонова",
+        "Строчки": "И в Риме Он глядел в середину тибрских жиж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485618591308594,
+          41.89512180073503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#edb000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Бейрут",
+        "Стих": "Кто-то вроде Лимонова",
+        "Строчки": "После пересек границу Чили И в Бейруте пулю получил"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4803466796875,
+          33.893787347075325
+        ]
+      }
     }
   ]
 }
