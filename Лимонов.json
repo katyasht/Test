@@ -4398,6 +4398,276 @@
           33.893787347075325
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebaf00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Париж",
+        "Стих": "Кто-то вроде Лимонова",
+        "Строчки": "Где-то в промежутках был Париж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3503875732421875,
+          48.85929404028653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e9ae00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Милан",
+        "Стих": "Осень. Холодно. Капают листья…",
+        "Строчки": "Милан ли то. Нью-Йорк. Париж."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.184570312499998,
+          45.469762152630416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f3b300",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Стих": "Кто-то вроде Лимонова",
+        "Строчки": "Кажется в Аравии служил После пересек границу Чили",
+        "name": "Чили"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9169921875,
+          -25.839449402063185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#efb100",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Волга",
+        "Стих": "Рабочие пили пиво",
+        "Строчки": "Рабочего долги часы и минуты А мимо Волги несут мазуты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.76899719238281,
+          53.16673931942846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebaf00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Вьетнам",
+        "Стих": "В газетах опять о Вьетнаме",
+        "Строчки": "В газетах опять о Вьетнаме А я не пишу моей маме"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.369140625,
+          13.624633438236152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#edb000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Манхэттан",
+        "Стих ": "Отрывок наш ничего",
+        "Строчки": "Островок Манхэттан мал Я любить его мечтал Я приехал и надеюсь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95858764648438,
+          40.79249896613324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#efb100",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Уолл-Стрит",
+        "Стих": "Нью-Йорку",
+        "Строчки": "Здесь пар проросший сквозь Бродвей Стремится к Уолл-Стриту"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00891594588757,
+          40.706063063613094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1b200",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Нью-Йорк",
+        "Стих": "Идиот; Нью-Йорку; Уже шестое февраля; Лето 1977-ого; Картина мира",
+        "Строчки": "Да ты будешь одиноким и простым В Нью-Йорк Сити жить — где утром серый дым; Меня смущает самого Любовь к Нью-Йорку граду; Или по улицам Нью-Йорка Плывет наш человек как корка; И над Нью-Йорком как призрак грядущего Осень кричит голоском неимущего; В Нью-Йорке в кровати ребята лежат"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99017333984375,
+          40.75037808986467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#efb100",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Лас- Вегас",
+        "Стих": "После фильма",
+        "Строчки": "Тарзан кажется служит дорменом в одном из отелей Лас- Вегаса..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.169677734375,
+          36.19995805932895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#edb000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Нью-Джерси",
+        "Стих": "Иуда на Бродвее",
+        "Строчки": "Покончив с войною, в Нью-Джерси приплыл в пароходе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3719482421875,
+          40.18307014852534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#edb000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Калифорния ",
+        "Стих": "Зависть",
+        "Строчки": "Как Калифорния крепка!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.72351074218749,
+          37.142803443716836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ebaf00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Туапсе",
+        "Стих": "Демонстранты идут по майской земле",
+        "Строчки": "В порт Туапсе пришли корабли"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.07210350036621,
+          44.10003706085849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1b200",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Central Park South",
+        "Стих": "После фильма",
+        "Строчки": "Они — старые и незаметные тряся облезлыми головами живут на Central Park South — утверждает мой знакомый журналист"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97465407848358,
+          40.76501048312605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e9ae00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Сена",
+        "Стих": "У Сены; Баллада парка Лобо",
+        "Строчки": "У Сены; Бросил вдруг в Сену бутылку араб Грек откусил свой кебаб"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1437501907348633,
+          48.87062888969466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e9ae00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Елисейские Поля",
+        "Стих": "Иуда на Бродвее",
+        "Строчки": "Бродить по Бродвею и по Елисейским полям"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3026657104492188,
+          48.87140515530032
+        ]
+      }
     }
   ]
 }
