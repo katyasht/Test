@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f5b400",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Китай",
+        "Стих": "Лето 1978",
+        "Строчки": "По вечерам я пил чаи Вдыхая лист китайский чайный"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.90917968749999,
+          35.764343479667176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f3b300",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Нью-Йорк",
+        "Стих": "Мой отрицательный герой",
+        "Строчки": "Его изящная спина Сейчас в Нью-Йорке нам видна На темной улице любой."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98811340332031,
+          40.724884598773755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1b200",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Парк Карла Шурца",
+        "Стих": "Лето 1978",
+        "Строчки": "Случайно порешив гулять Я в Грейси-парк ходил без дела"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94429683685303,
+          40.77423686505074
+        ]
+      }
+    }
+  ]
+}
