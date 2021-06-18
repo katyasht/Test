@@ -2678,6 +2678,42 @@
           48.447863317637506
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00834b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Аппиева дорога",
+        "Стих": "Via Appia Antica (старая Аппиева дорога)",
+        "Строчки": "La Via Appia Antica Ведет в былые времена"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.529520988464355,
+          41.844053569206736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00814a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Кампанья",
+        "Стих": "Via Appia Antica (старая Аппиева дорога)",
+        "Строчки": "Под небом голубым Кампаньи Дорога древняя лежит."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.383737564086914,
+          42.14125958838083
+        ]
+      }
     }
   ]
 }
