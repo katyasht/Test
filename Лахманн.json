@@ -2498,6 +2498,42 @@
           46.751153008636884
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00854c",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Базель",
+        "Стих": "Карнавал в Базеле",
+        "Строчки": "Карнавал в Базеле"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58880615234375,
+          47.56216409801383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00884d",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Анатолийское плоскогорье",
+        "Стих": "Анатолийская равнина…",
+        "Строчки": "Анатолийская равнина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.27734375,
+          39.436192999314095
+        ]
+      }
     }
   ]
 }
