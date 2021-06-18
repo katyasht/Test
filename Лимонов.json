@@ -54,6 +54,96 @@
           40.77423686505074
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f3b300",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Крым",
+        "Cтих": "Крым",
+        "Строчки": "В пятидесятые на юге Тогда вдруг Крым украинским вдруг стал"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.95874023437499,
+          45.336701909968134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1b200",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Коктебель",
+        "Стих": "Крым",
+        "Строчки": "Сухой поселок Коктебеля"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23796081542969,
+          44.96419063972912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#efb100",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Бухарест",
+        "Стих": "Крым ",
+        "Строки": "Был Крым — наверное и есть на месте В Америке как в Бухаресте"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10488891601562,
+          44.4377021634654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1b200",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Америка",
+        "Стих": "Крым ",
+        "Строчки": "Был Крым — наверное и есть на месте В Америке как в Бухаресте"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.294921875,
+          39.90973623453719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#edb000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Одесса",
+        "Стих": "Крым",
+        "Строчки": "Люблю я Крым и не люблю Одессы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.73253631591797,
+          46.486810621373486
+        ]
+      }
     }
   ]
 }
