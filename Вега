@@ -25,7 +25,9 @@
         "stroke": "#ba00fe",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Волга"
+        "name": "Волга",
+        "Стих": "Кирилл Радищев",
+        "Строчки": "Только где-то синеет Волга"
       },
       "geometry": {
         "type": "LineString",
@@ -174,7 +176,10 @@
       "properties": {
         "stroke": "#ba00fe",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Волга",
+        "Стих": "Кирилл Радищев",
+        "Строчки": "Только где-то синеет Волга"
       },
       "geometry": {
         "type": "LineString",
@@ -212,7 +217,9 @@
         "stroke": "#ba00fe",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Волга"
+        "name": "Волга",
+        "Стих": "Кирилл Радищев",
+        "Строчки": "Только где-то синеет Волга"
       },
       "geometry": {
         "type": "LineString",
@@ -362,7 +369,7 @@
         "stroke-opacity": 1,
         "name": "Волга",
         "Стих": "Кирилл Радищев",
-        "Строчки": "Жить осталось ему недолго, – Только где-то синеет Волга."
+        "Строчки": "Только где-то синеет Волга."
       },
       "geometry": {
         "type": "LineString",
@@ -623,7 +630,10 @@
       "properties": {
         "stroke": "#ba00fe",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Волга",
+        "Стих": "Кирилл Радищев",
+        "Строчки": "Только где-то синеет Волга."
       },
       "geometry": {
         "type": "LineString",
@@ -768,7 +778,10 @@
       "properties": {
         "stroke": "#ba00fe",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Волга",
+        "Стих": "Кирилл Радищев",
+        "Строчки": "Только где-то синеет Волга."
       },
       "geometry": {
         "type": "LineString",
