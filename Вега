@@ -959,10 +959,12 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#b800fa",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Обь"
+        "name": "Обь",
+        "Стих": "Матрешки",
+        "Строчки": "Как дышит туман и плывет, Клубясь над верховьями Оби"
       },
       "geometry": {
         "type": "LineString",
@@ -1060,7 +1062,10 @@
       "properties": {
         "stroke": "#ba00fe",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Обь",
+        "Стих": "Матрешки",
+        "Строчки": "Как дышит туман и плывет, Клубясь над верховьями Оби"
       },
       "geometry": {
         "type": "LineString",
@@ -1830,7 +1835,9 @@
         "stroke": "#ba00fe",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Обь"
+        "name": "Обь",
+        "Стих": "Матрешки",
+        "Строчки": "Как дышит туман и плывет, Клубясь над верховьями Оби"
       },
       "geometry": {
         "type": "LineString",
@@ -2185,7 +2192,10 @@
       "properties": {
         "stroke": "#ba00fe",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Обь",
+        "Стих": "Матрешки",
+        "Строчки": "Как дышит туман и плывет, Клубясь над верховьями Оби"
       },
       "geometry": {
         "type": "LineString",
@@ -2358,7 +2368,10 @@
       "properties": {
         "stroke": "#ba00fe",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Обь",
+        "Стих": "Матрешки",
+        "Строчки": "Как дышит туман и плывет, Клубясь над верховьями Оби"
       },
       "geometry": {
         "type": "LineString",
@@ -2544,7 +2557,10 @@
       "properties": {
         "stroke": "#ba00fe",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "name": "Обь",
+        "Стих": "Матрешки",
+        "Строчки": "Как дышит туман и плывет, Клубясь над верховьями Оби,"
       },
       "geometry": {
         "type": "LineString",
