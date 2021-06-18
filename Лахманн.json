@@ -2444,6 +2444,24 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008a4e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Киев",
+        "Стих": "Серебряная пыль",
+        "Строки": "Здесь тополь киевских высот"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5255126953125,
+          50.44351305245805
+        ]
+      }
     }
   ]
 }
